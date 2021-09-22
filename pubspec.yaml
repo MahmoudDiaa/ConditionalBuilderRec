@@ -1,7 +1,5 @@
 name: conditional_builder_rec
 description: conditional widget with null safty
-
-author: edited by mahmoud diaa (midaa203@gmail.com)
 homepage: https://github.com/MahmoudDiaa/conditional-builder_rec
 
 version: 1.0.0
